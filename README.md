@@ -1,1 +1,3 @@
 # DataManagement-SQL
+This project aims to design and implement a comprehensive Flower Distribution Management System for Armstrong Florals, Inc. This system automates the business processes of a flower distributor, enabling efficient order processing, delivery management, supplier interactions, and financial tracking. It leverages SQL for database management and uses a variety of SQL queries to facilitate reporting, analysis, and decision-making. The project focuses on improving the company's ability to serve retail clients, manage supplier relationships, and streamline operations while enhancing Jack Armstrong's vision of becoming a major distributor in the western panhandle area of Florida.
+
